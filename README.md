@@ -139,6 +139,6 @@ Loan: Home Loan
 ## 👨‍💻 Author
 
 **Aditya Singhal**
-Aspiring Java Backend Developer 🚀
+Java Backend Developer 🚀
 
 ---
